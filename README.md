@@ -2,7 +2,7 @@
 
 FullStack developer. Student at Andijan State University
 
-[Portfolio](https://odiljonov.netlify.app) | [Telegram](https://t.me/odiljonovofficial)
+[💼 Portfolio](https://odiljonov.netlify.app) | [✈️ Telegram](https://t.me/odiljonovofficial)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odiljonovofficial&label=Profile%20views&color=0e75b6&style=flat" alt="odiljonovofficial" /> </p>
 
